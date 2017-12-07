@@ -1,0 +1,2 @@
+# Zugspoefilters
+Loot filter
