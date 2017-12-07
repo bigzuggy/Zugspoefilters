@@ -1,0 +1,2803 @@
+
+## Currency
+
+Show
+	Class Currency
+	BaseType "Alteration Shard" "Transmutation Shard"
+	SetBackgroundColor 85 120 150 180
+	SetBorderColor 85 120 150 180
+	SetTextColor 190 190 190
+
+Show
+	Class Currency
+	BaseType "Engineer's Shard" "Binding Shard"
+	SetBackgroundColor 85 120 150 180
+	SetBorderColor 200 160 130 180
+	SetTextColor 190 190 190
+	
+Show
+	Class Currency
+	BaseType "Engineer's Orb" "Orb of Binding"
+	SetBackgroundColor 85 120 150
+	SetBorderColor 200 160 130
+	SetTextColor 190 190 190
+
+Show
+	Class Currency
+	BaseType "Alchemy Shard" "Chaos Shard" "Regal Shard"
+	SetBackgroundColor 85 120 150 180
+	SetBorderColor 255 30 30 180
+	SetTextColor 190 190 190
+	
+Show
+	Class Currency
+	BaseType "Horizon Shard"
+	SetBackgroundColor 85 120 150 180
+	SetBorderColor 220 120 220 180
+	SetTextColor 190 190 190
+	
+Show
+	Class Currency
+	BaseType "Orb of Horizons"
+	SetBackgroundColor 85 120 150
+	SetBorderColor 220 120 220
+	SetTextColor 190 190 190
+	
+Show
+	Class Currency
+	BaseType "Harbinger's Shard"
+	SetBackgroundColor 120 120 150 180
+	SetBorderColor 220 120 220 180
+	SetTextColor 190 190 190
+	
+Show
+	Class Currency
+	BaseType "Harbinger's Orb"
+	SetBackgroundColor 120 120 150
+	SetBorderColor 220 120 220
+	SetTextColor 190 190 190
+	
+Show
+	Class Currency
+	BaseType "Ancient Shard"
+	SetBackgroundColor 85 120 150 180
+	SetBorderColor 240 92 36 180
+	SetTextColor 165 125 40
+	
+Show
+	Class Currency
+	BaseType "Ancient Orb"
+	SetBackgroundColor 85 120 150
+	SetBorderColor 240 92 36
+	SetTextColor 165 125 40
+	
+Show
+	Class Currency
+	BaseType "Annulment Shard"
+	SetBackgroundColor 85 120 150 180
+	SetBorderColor 75 190 250 180
+	SetTextColor 160 180 255
+	
+Show
+	Class Currency
+	BaseType "Orb of Annulment"
+	SetBackgroundColor 85 120 150
+	SetBorderColor 75 190 250
+	SetTextColor 160 180 255
+	
+Show
+	Class Currency
+	BaseType "Exalted Shard"
+	SetBackgroundColor 250 225 60 180
+	SetBorderColor 250 255 150 180
+	SetTextColor 210 210 210
+	PlayAlertSound 2
+	
+Show
+	Class Currency
+	BaseType "Mirror Shard"
+	SetBackgroundColor 250 255 155 180
+	SetBorderColor 240 25 35 180
+	SetTextColor 240 25 35
+	PlayAlertSound 2
+
+Show
+	BaseType "Perandus Coin"
+	SetBackgroundColor 250 190 50 70
+	SetBorderColor 250 190 50
+	SetTextColor 250 190 50
+	
+Show
+	BaseType "Silver Coin"
+	SetBackgroundColor 250 140 250 90
+	SetBorderColor 220 220 220
+	SetTextColor 220 220 220
+	
+Show
+	Class Currency
+	BaseType "Prophecy"
+	SetBackgroundColor 0 0 0 180
+	SetBorderColor 133 51 188
+	SetTextColor 133 51 188
+	
+Show
+	BaseType "Silver Key"
+	SetBorderColor 255 0 0
+	SetTextColor 190 190 190
+	
+Show
+	BaseType "Golden Key"
+	SetBorderColor 255 0 0
+	SetTextColor 250 225 60
+	
+Show
+	BaseType "Treasure Key"
+	SetBorderColor 255 0 0
+	SetTextColor 200 160 130
+	
+Show
+	Class "Labyrinth Trinket"
+	SetBorderColor 255 190 190
+	SetTextColor 200 130 100
+
+Show
+	BaseType "Scroll of Wisdom" "Portal Scroll" 
+	SetFontSize 100	
+	SetBorderColor 196 221 234
+	SetTextColor 196 221 234
+	
+
+Show
+	BaseType "Scroll of Wisdom" "Portal Scroll" "Orb of Transmutation" "Orb of Augmentation" "Armourer's Scrap" 
+	SetBorderColor 196 221 234
+	SetTextColor 196 221 234
+	
+Show
+	BaseType "Glassblower's Bauble"
+	SetBackgroundColor 60 56 53 220
+	SetBorderColor 200 160 130
+	SetTextColor 200 160 130
+	
+Show
+	BaseType "Blacksmith's Whetstone"
+	SetFontSize 72
+	SetBackgroundColor 255 255 255 255
+	SetBorderColor 255 30 30
+	PlayAlertSound 6
+Show
+	BaseType "Rustic Sash"
+	SetFontSize 72
+	SetBackgroundColor 150 255 255 255
+	SetBorderColor 255 30 30
+	
+	PlayAlertSound 6
+
+	
+Show
+	BaseType "Cartographer's Chisel"
+	SetBackgroundColor 190 150 120 190
+	SetBorderColor 220 180 150
+	SetTextColor 255 255 255
+	
+	
+Show
+	BaseType "Orb of Alteration" "Orb of Chance" "Jeweller's Orb" "Chromatic Orb"
+	SetFontSize 72
+	SetBorderColor 196 221 234
+	SetTextColor 255 255 255
+	SetBackgroundColor 46 83 153
+	PlayAlertSound 7
+	
+Show
+	BaseType "Orb of Alchemy" "Orb of Scour" "Orb of Fusing"
+	SetBackgroundColor 46 83 153
+	SetBorderColor 255 30 30
+	SetTextColor 255 255 255
+	
+Show
+	BaseType "Chaos Orb" "Vaal Orb" "Orb of Regret" "Blessed Orb" "Regal Orb"
+	SetBackgroundColor 46 83 153
+	SetBorderColor 255 30 30
+	SetTextColor 255 255 255
+	PlayAlertSound 1
+	
+Show
+	BaseType "Divine Orb" "Gemcutter's Prism"
+	SetBackgroundColor 255 30 30
+	SetBorderColor 255 255 255
+	SetTextColor 0 0 0
+	PlayAlertSound 2
+	
+Show
+	BaseType "Exalted Orb" "Eternal Orb"
+	SetBackgroundColor 255 30 30
+	SetBorderColor 250 255 150
+	SetTextColor 0 0 0
+	PlayAlertSound 3
+	
+Show
+	BaseType "Mirror of Kalandra"
+	SetBackgroundColor 250 255 150
+	SetBorderColor 240 25 35
+	SetTextColor 240 25 35
+	PlayAlertSound 4
+	
+## ATLAS
+
+Show
+	Class Quest Items
+	BaseType "Shaper's Orb"
+	SetBackgroundColor 255 160 160 80
+	SetBorderColor 255 190 180
+	SetTextColor 255 255 120
+
+Show
+	BaseType "Unshaping Orb"
+	SetBackgroundColor 255 160 160 80
+	SetBorderColor 255 160 180
+	SetTextColor 255 80 120
+
+Show
+	BaseType "Cartographer's Seal"
+	SetBackgroundColor 180 255 180 80
+	SetBorderColor 255 60 200
+	SetTextColor 180 255 180
+
+Show
+	BaseType "Cartographer's Sextant"
+	SetBackgroundColor 255 255 255 80
+	SetBorderColor 255 60 200
+	SetTextColor 255 255 185
+	
+## ESSENCES
+
+Show
+	BaseType "Essence of"
+	SetBackgroundColor 130 160 255 120
+	SetBorderColor 150 60 200
+	SetTextColor 100 200 100
+	
+Show
+	BaseType "Remnant of Corruption"
+	SetBackgroundColor 255 20 20 90
+	SetBorderColor 0 0 0
+	SetTextColor 255 20 20
+	
+## High Level Bases (Introduced in Atlas)
+
+Show
+	BaseType "Steel Ring" "Opal Ring" "Blue Pearl Amulet" "Marble Amulet" "Vanguard Belt" "Crystal Belt" "Bone Helmet" "Two-Toned Boots" "Spiked Gloves" "Gripped Gloves" "Fingerless Silk Gloves"
+	Rarity Normal Magic Rare
+	SetBackgroundColor 190 190 190 100
+	SetBorderColor 255 255 255
+
+## BREACH
+
+Show
+	BaseType "Splinter of"
+	SetBackgroundColor 80 140 115 190
+	SetBorderColor 225 165 35
+	SetTextColor 225 225 205
+	
+Show
+	BaseType "Breachstone"
+	SetBackgroundColor 90 160 95 190
+	SetBorderColor 225 165 35
+	SetTextColor 225 225 205
+	
+Show
+	BaseType "Blessing of"
+	SetBackgroundColor 240 92 36 110
+	SetBorderColor 225 165 35
+	SetTextColor 225 225 205
+	
+## LEGACY
+
+Show
+	Class Leaguestone
+	SetBackgroundColor 30 100 170 140
+	SetBorderColor 220 180 150
+	SetTextColor 255 255 255
+	
+Show
+	Class Misc Map Items
+	BaseType "Ancient Reliquary Key"
+	SetBackgroundColor 30 210 170 90
+	SetBorderColor 220 180 150
+	SetTextColor 215 235 255
+	PlayAlertSound 4 300
+	
+## GO FISH
+
+Show
+	Class Fishing
+	SetBackgroundColor 250 255 150
+	SetBorderColor 240 25 35
+	SetTextColor 240 25 35
+	PlayAlertSound 4
+	
+## Talisman
+
+Show
+    BaseType Talisman
+	Rarity Unique
+	SetBackgroundColor 35 35 35 190
+	SetBorderColor 240 92 36
+	SetTextColor 52 245 224
+
+Show
+    BaseType Talisman
+	Rarity Rare
+	SetBackgroundColor 35 35 35 190
+	SetBorderColor 250 225 60
+	SetTextColor 52 245 224
+	
+Show
+    BaseType Talisman
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 190
+	SetBorderColor 52 185 224
+	SetTextColor 52 245 224
+	
+## Divination Cards
+
+Show
+	BaseType "Abandoned Wealth" "The Artist" "The Aesthete" "The Avenger" "Bowyer's Dream" "The Brittle Emperor" "The Cataclysm" "The Celestial Justicar" "The Chains that Bind" "The Dapper Prodigy" "The Dark Mage" "The Doctor" "The Polymath" "Emperor of Purity" "The Dragon's Heart" "The Enlightened" "The Ethereal" "The Fiend" "The Hoarder" "House of Mirrors" "The Hunger" "The Offering" "The Pact" "The Queen" "The Saint's Treasure" "The Spark and the Flame" "The Valley of Steel Boxes" "Time-Lost Relic" "The Union" "The Watcher" "Wealth and Power" "The Wind"
+	SetBackgroundColor 35 35 35 190
+	SetBorderColor 250 225 60
+	SetTextColor 160 230 250
+	PlayAlertSound 5
+
+Show
+	BaseType "Stacked Deck"
+	SetBackgroundColor 35 35 35 190
+	SetBorderColor 250 225 60
+	SetTextColor 160 230 250
+	PlayAlertSound 5
+	
+Show
+	Class "Divination Card"
+	SetBackgroundColor 35 35 35 190
+	SetBorderColor 160 230 250
+	SetTextColor 160 230 250
+	PlayAlertSound 5
+	
+## Uniques
+	
+Show
+	Rarity Unique
+	SetBorderColor 240 92 36
+	
+## Jewels
+
+Show
+	Class Jewel
+	BaseType Crimson
+	Rarity Rare
+	SetBackgroundColor 140 30 30 170
+	SetBorderColor 255 105 105
+	PlayAlertSound 6
+
+Show
+	Class Jewel
+	BaseType Viridian
+	Rarity Rare
+	SetBackgroundColor 30 140 100 170
+	SetBorderColor 110 255 195
+	PlayAlertSound 6
+
+Show
+	Class Jewel
+	BaseType Cobalt
+	Rarity Rare
+	SetBackgroundColor 30 100 140 170
+	SetBorderColor 110 195 255
+	PlayAlertSound 6
+	
+Show
+	Class Jewel
+	BaseType Crimson
+	Rarity Normal Magic
+	SetBackgroundColor 140 30 30 170
+	SetBorderColor 255 105 105
+	SetTextColor 255 85 85
+	PlayAlertSound 6
+
+Show
+	Class Jewel
+	BaseType Viridian
+	Rarity Normal Magic
+	SetBackgroundColor 30 140 100 170
+	SetBorderColor 110 255 195
+	SetTextColor 90 255 175
+	PlayAlertSound 6
+
+Show
+	Class Jewel
+	BaseType Cobalt
+	Rarity Normal Magic
+	SetBackgroundColor 2 25 128
+	SetBorderColor 110 195 255
+	SetTextColor 210 210 210
+	PlayAlertSound 6
+	
+## Linked
+Show
+	LinkedSockets = 3
+	SetFontSize 250
+	SetBorderColor 24 239 30
+	SetBackgroundColor 200 225 250 15
+	PlayAlertSound 5
+
+
+Show
+	LinkedSockets = 4
+	SetFontSize 250
+	SetTextColor 0 0 0
+	SetBackgroundColor 250 250 250 250
+	SetBorderColor 24 239 30
+	PlayAlertSound 5
+
+
+Show
+	LinkedSockets = 5
+	SetBackgroundColor 26 63 113
+	SetBorderColor 255 0 0
+	PlayAlertSound 2
+	
+Show
+	LinkedSockets = 6
+	SetBackgroundColor 26 63 113
+	SetTextColor 255 0 0
+	PlayAlertSound 2
+	
+## Vendor Recipes
+
+Show
+	Sockets 6
+	SetBackgroundColor 20 55 10
+	SetBorderColor 70 130 15
+	SetTextColor 255 255 255
+	PlayAlertSound 2
+
+Show
+	SocketGroup RGB
+	Height 2
+	SetBorderColor 70 130 15
+	
+Show
+	SocketGroup RGB
+	Height 3
+	Width 1
+	SetBorderColor 70 130 15
+	
+Show
+	Class Flask
+	SetFontSize 72
+	SetTextColor 30 90 60
+	SetBackgroundColor 255 255 255 255
+	SetBorderColor 30 90 60
+	PlayAlertSound 9
+Show
+	BaseType "Stone Hammer" "Rock Breaker" "Gavel"
+	Rarity Normal
+	SetBorderColor 70 130 15
+	
+Show
+	BaseType "Stone Hammer" "Rock Breaker" "Gavel"
+	Rarity Magic Rare
+	Quality = 20
+	SetBorderColor 70 130 15
+	
+## Maps
+	
+## 4-Part Fragments
+	
+Show
+	Class Map
+	BaseType "Fragment of the Phoenix"
+	SetBackgroundColor 245 120 5 175
+	SetBorderColor 185 120 235
+	SetTextColor 0 0 0
+	PlayAlertSound 5	
+
+Show
+	Class Map
+	BaseType "Fragment of the Minotaur"
+	SetBackgroundColor 160 125 90 175
+	SetBorderColor 185 120 235
+	SetTextColor 0 0 0
+	PlayAlertSound 5
+	
+Show
+	Class Map
+	BaseType "Fragment of the Hydra"
+	SetBackgroundColor 25 120 70 175
+	SetBorderColor 185 120 235
+	SetTextColor 0 0 0
+	PlayAlertSound 5
+	
+Show
+	Class Map
+	BaseType "Fragment of the Chimera"
+	SetBackgroundColor 170 45 115 175
+	SetBorderColor 185 120 235
+	SetTextColor 0 0 0
+	PlayAlertSound 5
+
+Show
+	Class Map
+	BaseType "Eber's Key" "Inya's Key" "Volkuur's Key" "Yriel's Key"
+	SetBackgroundColor 50 70 110 190
+	SetBorderColor 185 120 235
+	SetTextColor 185 140 250
+	PlayAlertSound 5
+	
+## Lab
+	
+Show
+	Class Map
+	BaseType "Offering to the Goddess"
+	SetBackgroundColor 90 155 115 190
+	SetBorderColor 90 180 200
+	SetTextColor 90 180 200
+	PlayAlertSound 5
+	
+## Atziri
+	
+Show
+	Class Map
+	BaseType "Sacrifice"
+	SetBackgroundColor 50 70 110 190
+	SetBorderColor 185 120 235
+	SetTextColor 255 0 0
+	PlayAlertSound 5
+	
+Show
+	Class Map
+	BaseType "Mortal"
+	SetBackgroundColor 50 70 110 190
+	SetBorderColor 255 160 205
+	SetTextColor 255 0 0
+	PlayAlertSound 5
+
+## Fade Maps Tier 1-5 In Areas Level 75+ / Only Play Game Default Map Drop Sound
+
+Show
+	Class Map
+	Rarity Normal Magic
+	BaseType "Arcade" "Crystal Ore" "Desert" "Jungle Valley" "Beach" "Factory" "Ghetto" "Oasis" "Arid Lake" "Cavern" "Channel" "Grotto" "Marshes" "Sewer" "Vaal Pyramid" "Academy" "Acid Lakes" "Dungeon" "Graveyard" "Phantasmagoria" "Villa" "Waste Pool" "Burial Chambers" "Dunes" "Mesa" "Peninsula" "Pit" "Primordial Pool" "Spider Lair" "Tower"
+	DropLevel < 73
+	ItemLevel > 74
+	SetBackgroundColor 50 70 110 127
+	SetBorderColor 20 120 235 127
+	SetTextColor 255 255 255 127
+	
+Show
+	Class Map
+	Rarity Rare
+	BaseType "Arcade" "Crystal Ore" "Desert" "Jungle Valley" "Beach" "Factory" "Ghetto" "Oasis" "Arid Lake" "Cavern" "Channel" "Grotto" "Marshes" "Sewer" "Vaal Pyramid" "Academy" "Acid Lakes" "Dungeon" "Graveyard" "Phantasmagoria" "Villa" "Waste Pool" "Burial Chambers" "Dunes" "Mesa" "Peninsula" "Pit" "Primordial Pool" "Spider Lair" "Tower"
+	DropLevel < 73
+	ItemLevel > 74
+	SetBackgroundColor 50 70 110 127
+	SetBorderColor 255 225 60 127
+	SetTextColor 255 255 255 127
+
+## White Maps (Tier 1-5)
+	
+Show
+	Class Map
+	Rarity Normal Magic
+	DropLevel < 73
+	SetBackgroundColor 50 70 110 190
+	SetBorderColor 20 120 235
+	SetTextColor 255 255 255
+	PlayAlertSound 5
+	
+Show
+	Class Map
+	Rarity Rare
+	DropLevel < 73
+	SetBackgroundColor 50 70 110 190
+	SetBorderColor 255 225 60
+	SetTextColor 255 255 255
+	PlayAlertSound 5
+	
+## Yellow Maps (Tier 6-10)
+
+Show
+	Class Map
+	Rarity Normal Magic
+	DropLevel < 78
+	DropLevel > 72
+	SetBackgroundColor 50 70 110 190
+	SetBorderColor 20 120 235
+	SetTextColor 255 225 60
+	PlayAlertSound 5
+	
+Show
+	Class Map
+	Rarity Rare
+	DropLevel < 78
+	DropLevel > 72
+	SetBackgroundColor 50 70 110 190
+	SetBorderColor 255 225 60
+	SetTextColor 255 225 60
+	PlayAlertSound 5
+	
+## Red Maps (Tier 11+)
+
+Show
+	Class Map
+	Rarity Normal Magic
+	DropLevel > 77
+	SetBackgroundColor 50 70 110 190
+	SetBorderColor 20 120 235
+	SetTextColor 255 0 0
+	PlayAlertSound 5
+	
+Show
+	Class Map
+	Rarity Rare
+	DropLevel > 77
+	SetBackgroundColor 50 70 110 190
+	SetBorderColor 255 225 60
+	SetTextColor 255 0 0
+	PlayAlertSound 5
+
+## Misc Map Items
+	
+Show
+	BaseType "Divine Vessel"
+	SetBackgroundColor 35 35 35
+	SetBorderColor 30 30 200
+	SetTextColor 255 0 0
+	
+## Enchant / Craft Bases ilvl 84+
+
+Show
+	BaseType "Royal Burgonet" "Eternal Burgonet" "Lion Pelt" "Sinner Tricorne" "Hubris Circlet" "Bone Helmet" "Spiked Gloves" "Gripped Gloves" "Fingerless Silk Gloves"
+	Rarity Normal Magic Rare
+	ItemLevel > 83
+	SetBorderColor 230 75 220
+	
+## Chance Bases (High Value Uniques)
+	
+Show
+	BaseType "Glorious Plate" "Occultist's Vestment" "Sorcerer Boots" "Close Helmet" "Gold Amulet"
+	Rarity Normal
+	SetBorderColor 110 120 235 170
+	
+	
+## Dim Low Level Flasks
+
+Show
+	Class Flask
+	BaseType "Small Life" "Small Mana"
+	ItemLevel >= 6
+	Quality < 5
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 100 100 150 127
+	SetTextColor 180 180 180 127
+	
+Show
+	Class Flask
+	BaseType "Medium Life" "Medium Mana"
+	ItemLevel >= 12
+	Quality < 5
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 100 100 150 127
+	SetTextColor 180 180 180 127
+	
+Show
+	Class Flask
+	BaseType "Large Life" "Large Mana"
+	ItemLevel >= 18
+	Quality < 5
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 100 100 150 127
+	SetTextColor 180 180 180 127
+	
+Show
+	Class Flask
+	BaseType "Small Hybrid"
+	ItemLevel >= 20
+	Quality < 5
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 100 100 150 127
+	SetTextColor 180 180 180 127
+	
+Show
+	Class Flask
+	BaseType "Greater Life" "Greater Mana"
+	ItemLevel >= 24
+	Quality < 5
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 100 100 150 127
+	SetTextColor 180 180 180 127
+	
+Show
+	Class Flask
+	BaseType "Grand Life" "Grand Mana" "Medium Hybrid"
+	ItemLevel >= 30
+	Quality < 5
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 100 100 150 127
+	SetTextColor 180 180 180 127
+	
+Show
+	Class Flask
+	BaseType "Giant Life" "Giant Mana"
+	ItemLevel >= 36
+	Quality < 5
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 100 100 150 127
+	SetTextColor 180 180 180 127
+	
+Show
+	Class Flask
+	BaseType "Large Hybrid"
+	ItemLevel >= 40
+	Quality < 5
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 100 100 150 127
+	SetTextColor 180 180 180 127
+	
+Show
+	Class Flask
+	BaseType "Colossal Life" "Colossal Mana"
+	ItemLevel >= 42
+	Quality < 5
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 100 100 150 127
+	SetTextColor 180 180 180 127
+	
+Show
+	Class Flask
+	BaseType "Sacred Life" "Sacred Mana" "Colossal Hybrid"
+	ItemLevel >= 50
+	Quality < 5
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 100 100 150 127
+	SetTextColor 180 180 180 127
+	
+Show
+	Class Flask
+	BaseType "Hallowed Life" "Hallowed Mana" "Sacred Hybrid"
+	ItemLevel >= 60
+	Quality < 5
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 100 100 150 127
+	SetTextColor 180 180 180 127
+	
+Show
+	Class Flask
+	BaseType "Sanctified Life" "Sanctified Mana"
+	ItemLevel >= 65
+	Quality < 5
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 100 100 150 127
+	SetTextColor 180 180 180 127
+
+	
+## Flasks, Jewelry, Gems
+
+Show
+	Class Flask
+	SetBackgroundColor 35 35 35
+	SetBorderColor 100 100 150
+	
+Show
+	Class Ring Amulet
+	SetBorderColor 15 85 165
+	
+Show
+	Class Gem
+	Quality > 0
+	SetBorderColor 250 240 50
+	
+Show
+	Class Gem
+	BaseType "Empower" "Enhance" "Enlighten"
+	SetBorderColor 150 140 250
+	PlayAlertSound 3
+	
+## Dim Low Level Item Types
+
+## Armour - Top 3 bases of each type are always shown (not faded)
+
+Show
+	BaseType "Plate Vest"
+	ItemLevel >= 6
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Scale Vest" "Chainmail Vest"
+	ItemLevel >= 8
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Shabby Jerkin" "Padded Vest"
+	ItemLevel >= 9
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Simple Robe"
+	ItemLevel >= 11
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Chestplate" "Strapped Leather" "Light Brigandine" "Chainmail Tunic"
+	ItemLevel >= 17
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Silken Vest" "Oiled Vest"
+	ItemLevel >= 18
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Copper Plate" "Scale Doublet" "Ringmail Coat"
+	ItemLevel >= 21
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Padded Jacket"
+	ItemLevel >= 22
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Buckskin Tunic" "Scholar's Robe"
+	ItemLevel >= 25
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "War Plate" "Wild Leather" "Silken Garb" "Infantry Brigandine" "Chainmail Doublet" "Oiled Coat"
+	ItemLevel >= 28
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+
+Show
+	BaseType "Full Plate" "Full Leather" "Mage's Vestment" "Full Scale Armour" "Full Ringmail" "Scarlet Raiment"
+	ItemLevel >= 32
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Arena Plate" "Sun Leather" "Silk Robe" "Soldier's Brigandine" "Full Chainmail" "Waxed Garb"
+	ItemLevel >= 35
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Lordly Plate" "Thief's Garb" "Cabalist Regalia"
+	ItemLevel >= 37
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Field Lamellar"
+	ItemLevel >= 38
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Holy Chainmail"
+	ItemLevel >= 39
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Bone Armour"
+	ItemLevel >= 40
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Bronze Plate" "Eelskin Tunic" "Sage's Robe"
+	ItemLevel >= 41
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Wyrmscale Doublet"
+	ItemLevel >= 42
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Latticed Ringmail"
+	ItemLevel >= 43
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Quilted Jacket"
+	ItemLevel >= 44
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Battle Plate" "Frontier Leather" "Silken Wrap"
+	ItemLevel >= 45
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Hussar Brigandine"
+	ItemLevel >= 46
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Crusader Chainmail"
+	ItemLevel >= 47
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Sleek Coat"
+	ItemLevel >= 48
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+
+Show
+	BaseType "Sun Plate" "Conjurer's Vestment"
+	ItemLevel >= 49
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Full Wyrmscale"
+	ItemLevel >= 50
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Ornate Ringmail"
+	ItemLevel >= 51
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Crimson Raiment"
+	ItemLevel >= 52
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Colosseum Plate" "Coronal Leather" "Glorious Leather" "Spidersilk Robe"
+	ItemLevel >= 53
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Commander's Brigandine"
+	ItemLevel >= 54
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Chain Hauberk"
+	ItemLevel >= 55
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Majestic Plate" "Cutthroat's Garb" "Destroyer Regalia" "Lacquered Garb"
+	ItemLevel >= 56
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Battle Lamellar"
+	ItemLevel >= 57
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Devout Chainmail"
+	ItemLevel >= 58
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Golden Plate" "Sharkskin Tunic" "Savant's Robe"
+	ItemLevel >= 59
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Loricated Ringmail"
+	ItemLevel >= 61
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Crusader Plate" "Destiny Leather" "Necromancer Silks" "Crypt Armour"
+	ItemLevel >= 62
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Desert Brigandine" "Dragonscale Doublet"
+	ItemLevel >= 63
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Elegant Ringmail"
+	ItemLevel >= 67
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Gladiator Plate" "Widowsilk Robe"
+	ItemLevel >= 68
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+## Helmets - Top 2 bases of each type are always shown (not faded)
+
+Show
+	BaseType "Ezomyte Burgonet" "Solaris Circlet"
+	ItemLevel >= 65
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Silken Hood"
+	ItemLevel >= 64
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+
+Show
+	BaseType "Fluted Bascinet" "Magistrate Crown"
+	ItemLevel >= 63
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Harlequin Mask"
+	ItemLevel >= 62
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Samite Helmet" "Ursine Pelt"
+	ItemLevel >= 60
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Necromancer Circlet"
+	ItemLevel >= 59
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Lacquered Helmet" "Great Crown"
+	ItemLevel >= 58
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Regicide Mask"
+	ItemLevel >= 57
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Siege Helmet" "Noble Tricorne"
+	ItemLevel >= 55
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Steel Circlet"
+	ItemLevel >= 54
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Zealot Helmet"
+	ItemLevel >= 53
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Callous Mask"
+	ItemLevel >= 52
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Fencer Helm"
+	ItemLevel >= 51
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Reaver Helmet" "Lunaris Circlet"
+	ItemLevel >= 48
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Hunter Hood"
+	ItemLevel >= 47
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Raven Mask"
+	ItemLevel >= 45
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Aventail Helmet"
+	ItemLevel >= 44
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Secutor Helm"
+	ItemLevel >= 43
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Wolf Pelt"
+	ItemLevel >= 41
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Gladiator Helmet"
+	ItemLevel >= 40
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Bone Circlet"
+	ItemLevel >= 39
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Golden Mask"
+	ItemLevel >= 38
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Crusader Helmet"
+	ItemLevel >= 37
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Gilded Sallet"
+	ItemLevel >= 36
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Close Helmet" "Festival Mask"
+	ItemLevel >= 35
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Tribal Circlet"
+	ItemLevel >= 34
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Visored Sallet"
+	ItemLevel >= 33
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Great Helmet"
+	ItemLevel >= 31
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Leather Hood"
+	ItemLevel >= 30
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Iron Mask"
+	ItemLevel >= 28
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Barbute Helmet" "Torture Cage"
+	ItemLevel >= 26
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Sallet"
+	ItemLevel >= 23
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Soldier Helmet"
+	ItemLevel >= 22
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Tricorne"
+	ItemLevel >= 20
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Cone Helmet"
+	ItemLevel >= 18
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Iron Circlet" "Plague Mask"
+	ItemLevel >= 17
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Battered Helm"
+	ItemLevel >= 13
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Rusted Coif"
+	ItemLevel >= 12
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Leather Cap" "Scare Mask"
+	ItemLevel >= 10
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Vine Circlet"
+	ItemLevel >= 8
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Iron Hat"
+	ItemLevel >= 7
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+## Gloves - Top 2 bases of each type are always shown (not faded)
+
+Show
+	BaseType "Goliath Gauntlets"
+	ItemLevel >= 63
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Shagreen Gloves"
+	ItemLevel >= 62
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Conjurer Gloves"
+	ItemLevel >= 60
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Wyrmscale Gauntlets"
+	ItemLevel >= 59
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Carnal Mitts"
+	ItemLevel >= 58
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Soldier Gloves"
+	ItemLevel >= 57
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Samite Gloves"
+	ItemLevel >= 55
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Sharkskin Gloves"
+	ItemLevel >= 54
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Ancient Gauntlets"
+	ItemLevel >= 53
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Zealot Gloves"
+	ItemLevel >= 51
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Ambush Mitts"
+	ItemLevel >= 50
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Serpentscale Gauntlets"
+	ItemLevel >= 49
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Antique Gauntlets" "Satin Gloves"
+	ItemLevel >= 47
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Eelskin Gloves" "Trapper Mitts"
+	ItemLevel >= 45
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Steelscale Gauntlets" "Riveted Gloves"
+	ItemLevel >= 43
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Embroidered Gloves"
+	ItemLevel >= 41
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Steel Gauntlets"
+	ItemLevel >= 39
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Nubuck Gloves"
+	ItemLevel >= 38
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Mesh Gloves"
+	ItemLevel >= 37
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Silk Gloves" "Bronzescale Gauntlets" "Clasped Mitts"
+	ItemLevel >= 36
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Bronze Gauntlets"
+	ItemLevel >= 35
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Deerskin Gloves"
+	ItemLevel >= 33
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Ringmail Gloves"
+	ItemLevel >= 32
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Strapped Mitts"
+	ItemLevel >= 31
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Ironscale Gauntlets"
+	ItemLevel >= 27
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Velvet Gloves"
+	ItemLevel >= 25
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Plated Gauntlets"
+	ItemLevel >= 23
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Goathide Gloves"
+	ItemLevel >= 21
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Chain Gloves"
+	ItemLevel >= 19
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Wrapped Mitts"
+	ItemLevel >= 16
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Fishscale Gauntlets"
+	ItemLevel >= 15
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Wool Gloves"
+	ItemLevel >= 12
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Iron Gauntlets"
+	ItemLevel >= 11
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Rawhide Gloves"
+	ItemLevel >= 9
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+
+## Boots - Top 2 bases of each type are always shown (not faded)
+
+Show
+	BaseType "Goliath Greaves" "Shagreen Boots"
+	ItemLevel >= 62
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Conjurer Boots"
+	ItemLevel >= 61
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Conjurer Boots"
+	ItemLevel >= 61
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Wyrmscale Boots"
+	ItemLevel >= 59
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Soldier Boots"
+	ItemLevel >= 58
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Sharkskin Boots" "Ambush Boots"
+	ItemLevel >= 55
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Ancient Greaves"
+	ItemLevel >= 54
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Samite Slippers"
+	ItemLevel >= 53
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Serpentscale Boots"
+	ItemLevel >= 51
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Zealot Boots"
+	ItemLevel >= 49
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Trapper Boots"
+	ItemLevel >= 47
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Antique Greaves"
+	ItemLevel >= 46
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Eelskin Boots" "Satin Slippers"
+	ItemLevel >= 44
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Steelscale Boots"
+	ItemLevel >= 42
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Shackled Boots"
+	ItemLevel >= 41
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Riveted Boots"
+	ItemLevel >= 40
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Nubuck Boots"
+	ItemLevel >= 39
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Scholar Boots"
+	ItemLevel >= 38
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Reinforced Greaves"
+	ItemLevel >= 37
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Bronzescale Boots" "Mesh Boots"
+	ItemLevel >= 36
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Deerskin Boots" "Clasped Boots"
+	ItemLevel >= 34
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Plated Greaves"
+	ItemLevel >= 33
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Silk Slippers"
+	ItemLevel >= 32
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Ironscale Boots"
+	ItemLevel >= 30
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Ringmail Boots"
+	ItemLevel >= 28
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Strapped Boots"
+	ItemLevel >= 27
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Steel Greaves"
+	ItemLevel >= 23
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Goathide Boots" "Velvet Slippers"
+	ItemLevel >= 22
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Leatherscale Boots"
+	ItemLevel >= 18
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Wrapped Boots"
+	ItemLevel >= 16
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Chain Boots"
+	ItemLevel >= 13
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Rawhide Boots"
+	ItemLevel >= 12
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Iron Greaves" "Wool Shoes"
+	ItemLevel >= 9
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+
+## Shields
+
+Show
+	BaseType "Ezomyte Spiked Shield" "Mirrored Spiked Shield"
+	ItemLevel >= 70
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Crusader Buckler"
+	ItemLevel >= 69
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Mosaic Kite Shield"
+	ItemLevel >= 68
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Vaal Buckler" "Crimson Round Shield" "Spiny Round Shield"
+	ItemLevel >= 66
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Vaal Spirit Shield"
+	ItemLevel >= 65
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Girded Tower Shield" "Ebony Tower Shield"
+	ItemLevel >= 64
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Thorium Spirit Shield" "Fossilised Spirit Shield" "Teak Round Shield" "Branded Kite Shield"
+	ItemLevel >= 62
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Bronze Tower Shield" "Crested Tower Shield" "Shagreen Tower Shield"
+	ItemLevel >= 61
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Golden Buckler" "Ironwood Buckler"
+	ItemLevel >= 60
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Lacewood Spirit Shield" "Steel Kite Shield" "Angelic Kite Shield"
+	ItemLevel >= 59
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Baroque Round Shield" "Sovereign Spiked Shield"
+	ItemLevel >= 58
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Laminated Kite Shield"
+	ItemLevel >= 55
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Enameled Buckler" "Battle Buckler" "Spiked Round Shield" "Redwood Spiked Shield" "Compound Spiked Shield" "Polished Spiked Shield"
+	ItemLevel >= 54
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Chiming Spirit Shield"
+	ItemLevel >= 53
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Corrugated Buckler"
+	ItemLevel >= 50
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Ancient Spirit Shield"
+	ItemLevel >= 49
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Reinforced Tower Shield" "Mahogany Tower Shield"
+	ItemLevel >= 47
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Etched Kite Shield"
+	ItemLevel >= 46
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Brass Spirit Shield" "Ivory Spirit Shield" "Maple Round Shield"
+	ItemLevel >= 45
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Painted Tower Shield" "Buckskin Tower Shield"
+	ItemLevel >= 43
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Gilded Buckler" "Oak Buckler"
+	ItemLevel >= 42
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Walnut Spirit Shield"
+	ItemLevel >= 41
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Ceremonial Kite Shield"
+	ItemLevel >= 40
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Scarlet Round Shield" "Splendid Round Shield" "Ornate Spiked Shield"
+	ItemLevel >= 39
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Copper Tower Shield"
+	ItemLevel >= 35
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "War Buckler" "Reinforced Kite Shield" "Layered Kite Shield"
+	ItemLevel >= 34
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Jingling Spirit Shield" "Burnished Spiked Shield"
+	ItemLevel >= 33
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Painted Buckler" "Hammered Buckler"
+	ItemLevel >= 29
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Tarnished Spirit Shield"
+	ItemLevel >= 28
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Studded Round Shield" "Alloyed Spiked Shield"
+	ItemLevel >= 27
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Cedar Tower Shield"
+	ItemLevel >= 24
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Bone Spirit Shield"
+	ItemLevel >= 23
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Fir Round Shield" "Linden Kite Shield" "Driftwood Spiked Shield"
+	ItemLevel >= 20
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Rawhide Tower Shield"
+	ItemLevel >= 17
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Pine Buckler"
+	ItemLevel >= 16
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Yew Spirit Shield"
+	ItemLevel >= 15
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Plank Kite Shield"
+	ItemLevel >= 13
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Rotted Round Shield" "Spiked Bundle"
+	ItemLevel >= 12
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Corroded Tower Shield"
+	ItemLevel >= 11
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Twig Spirit Shield"
+	ItemLevel >= 9
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Goathide Buckler"
+	ItemLevel >= 8
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+## Weapons
+
+Show
+	BaseType "Royal Axe" "Butcher Axe"
+	ItemLevel >= 69
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+
+Show
+	BaseType "Ranger Bow" "Spine Bow" "Hellion's Paw" "Lathi" "Despot Axe" "Demon's Horn"
+	ItemLevel >= 68
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Piledriver"
+	ItemLevel >= 67
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Pernarch"
+	ItemLevel >= 66
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Siege Axe" "Reaver Sword"
+	ItemLevel >= 65
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Golden Kris" "Karui Sceptre" "Pecoraro" "Fancy Foil" "Sundering Axe" "Ezomyte Axe"
+	ItemLevel >= 64
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Karui Axe" "Colossus Mallet"
+	ItemLevel >= 63
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Noble Claw" "Gutting Knife" "Slaughter Knife" "Tenderizer" "Tyrant's Sekhem" "Dragonbone Rapier"
+	ItemLevel >= 62
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Dread Maul" "Headman's Sword" "Wraith Sword"
+	ItemLevel >= 61
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+
+Show
+	BaseType "Noble Claw" "Gutting Knife" "Slaughter Knife" "Tenderizer" "Tyrant's Sekhem" "Dragonbone Rapier"
+	ItemLevel >= 62
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Dread Maul" "Headman's Sword" "Wraith Sword"
+	ItemLevel >= 61
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Citadel Bow" "Eagle Claw" "Ezomyte Dagger" "Ancestral Club" "Gemstone Sword" "Crystal Sceptre" "Foul Staff" "Abyssal Axe"
+	ItemLevel >= 60
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Wraith Axe" "Chest Splitter" "Plated Maul" "Tiger Sword" "Serpent Wand" "Engraved Wand"
+	ItemLevel >= 59
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Decimation Bow" "Prehistoric Claw" "Royal Skean" "Phantom Mace" "Graceful Sword" "Abyssal Sceptre" "Royal Sceptre" "Apex Rapier"
+	ItemLevel >= 58
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Highborn Bow" "Fiend Dagger" "Twilight Blade" "Blood Sceptre" "Omen Wand"
+	ItemLevel >= 56
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Gut Ripper" "Highborn Staff" "Primeval Rapier" "Labrys" "Noble Axe"
+	ItemLevel >= 55
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Ceremonial Axe" "War Axe" "Spiny Maul" "Engraved Greatsword"
+	ItemLevel >= 54
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Ornate Mace" "Flanged Mace" "Elder Sword" "Lead Sceptre"
+	ItemLevel >= 53
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Tiger's Paw" "Serpentine Staff" "Serrated Foil"
+	ItemLevel >= 52
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Highland Blade"
+	ItemLevel >= 51
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Ivory Bow" "Boot Blade" "Poignard" "Cutlass"
+	ItemLevel >= 50
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Military Staff" "Headsman Axe" "Crystal Wand"
+	ItemLevel >= 49
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Wrist Chopper" "Tomahawk" "Steelhead"
+	ItemLevel >= 48
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Sniper Bow" "Grove Bow" "Battle Hammer" "Battle Sword" "Baselard" "Grinning Fetish"
+	ItemLevel >= 47
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Estoc" "Elegant Foil"
+	ItemLevel >= 46
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Jasper Axe" "Quarterstaff" "Timber Axe" "Faun's Horn"
+	ItemLevel >= 45
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Compound Bow" "Barbed Club" "Great Mallet" "Footman Sword" "Butcher Sword"
+	ItemLevel >= 44
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Gouger" "Sparkling Claw" "Burnished Foil" "Wyrmbone Rapier"
+	ItemLevel >= 43
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Decurve Bow" "Butcher Knife" "Variscite Blade" "Sekhem" "Shadow Sceptre" "Woodful Staff" "Jasper Chopper"
+	ItemLevel >= 41
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Thresher Claw" "Fright Claw" "Totemic Maul" "Fright Maul" "Spiraled Wand"
+	ItemLevel >= 40
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Flaying Knife" "Skean" "Petrified Club" "Dream Mace" "Elegant Sword"
+	ItemLevel >= 38
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Vile Staff" "Thorn Rapier" "Shadow Axe"
+	ItemLevel >= 37
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Spectral Axe" "Spectral Sword"
+	ItemLevel >= 36
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Death Bow" "Royal Bow" "Imp Dagger" "Dusk Blade" "Sage Wand"
+	ItemLevel >= 35
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Timeworn Claw" "Blinder" "Antique Rapier"
+	ItemLevel >= 34
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Decorative Axe" "Arming Axe" "Royal Staff" "Gilded Axe"
+	ItemLevel >= 33
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Ceremonial Mace" "Ritual Sceptre" "Ochre Sceptre" "Quartz Sceptre" "Brass Maul" "Ornate Sword"
+	ItemLevel >= 32
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Jagged Foil"
+	ItemLevel >= 30
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Bone Bow" "Copper Kris" "Boot Knife" "Bladed Mace" "Ancient Sword" "Coiled Staff" "Double Axe"
+	ItemLevel >= 28
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Morning Star" "Etched Greatsword"
+	ItemLevel >= 27
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Broad Axe"
+	ItemLevel >= 25
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Recurve Bow" "War Hammer" "War Sword" "Iron Sceptre" "Quartz Wand"
+	ItemLevel >= 24
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Iron Staff" "Poleaxe"
+	ItemLevel >= 23
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Cat's Paw" "Basket Rapier" "Sledgehammer" "Two-Handed Sword"
+	ItemLevel >= 22
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Cleaver"
+	ItemLevel >= 21
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Composite Bow" "Stiletto" "Broad Sword"
+	ItemLevel >= 20
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Long Staff" "Woodsplitter" "Carved Wand"
+	ItemLevel >= 18
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Awl" "Battered Foil" "Mallet" "Bastard Sword"
+	ItemLevel >= 17
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Boarding Axe"
+	ItemLevel >= 16
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Long Bow" "Carving Knife" "Spiked Club" "Sabre" "Bronze Sceptre"
+	ItemLevel >= 15
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Primitive Staff" "Jade Chopper"
+	ItemLevel >= 13
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Sharktooth Claw" "Whalebone Rapier" "Tribal Maul" "Longsword" "Goat's Horn"
+	ItemLevel >= 12
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Jade Hatchet"
+	ItemLevel >= 11
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Short Bow" "Skinning Knife" "Tribal Club" "Copper Sword" "Darkwood Sceptre"
+	ItemLevel >= 10
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Gnarled Branch" "Stone Axe"
+	ItemLevel >= 9
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Driftwood Maul" "Corroded Blade"
+	ItemLevel >= 8
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Nailed Fist" "Rusted Spike"
+	ItemLevel >= 7
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Rusted Hatchet" "Driftwood Wand"
+	ItemLevel >= 6
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+Show
+	BaseType "Crude Bow" "Glass Shank" "Driftwood Club" "Rusted Sword" "Driftwood Sceptre"
+	ItemLevel >= 5
+	Rarity Normal Magic
+	SetBackgroundColor 35 35 35 127
+	SetBorderColor 180 180 180 127
+	SetTextColor 180 180 180 127
+	
+### END
